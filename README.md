@@ -1,2 +1,2 @@
-# Digitalized-Bulding-Layouts
-Digitalizing Building Layouts using OpenCV and Clustering.
+# Digitalising-Bulding-Layouts
+Digitalising Building Layouts using OpenCV and Clustering.
