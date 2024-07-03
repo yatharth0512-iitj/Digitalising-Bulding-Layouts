@@ -22,7 +22,8 @@ The company has converted the plan view of buildings into bitmaps of size 640 x 
 ## Project Description
 
 1. **Removed Duplicate Layouts**: Detected duplicates using image hashing and removed them form the dataset.
-2. **Extracted Geometrical Features**: Used OpenCV to determine corners, bounding box, hull area, compactness, and interior angles of building layout images.
+2. **Extracted Geometrical Features**: Used OpenCV to determine corners, area, perimeter, bounding box, hull area, compactness, extent ratio, aspect ratio, interior angles and other geometrical features for 
+ building layout images.
 3. **K-means Clustering**: Applied K-means clustering to group images by feature similarity.
 4. **Feature Reduction**: Removed redundant features by analysing collinearity and multicollinearity using heatmap and variance infleaction factor(VIF).
 5. **Complexity Scoring**: Developed a complexity score based on the number of corners to categorize images into low, medium, and high complexity.
