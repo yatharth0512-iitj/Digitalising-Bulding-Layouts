@@ -30,7 +30,7 @@ The company has converted the plan view of buildings into bitmaps of size 640 x 
 
 1. **Clone the repository**:
 
-2. **Male sure that all dependencies are already installed before running .ipynb file**:
+2. **Make sure that all dependencies are already installed before running .ipynb file**:
 
 
 ## Results
